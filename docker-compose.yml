@@ -8,13 +8,15 @@ services:
     environment:
       EULA: "TRUE"
       ONLINE_MODE: "FALSE"
+      OPS: |
+        xDESOLx
       TYPE: "MODRINTH"
       MODS_FILE: "/extras/mods.txt"
       MODRINTH_MODPACK: "landscapes-reimagined-genesis"
       MODRINTH_EXCLUDE_FILES: |
         fancymenu
         drippyloadingscreen
-      MEMORY: "3G"
+      MEMORY: "6G"
     healthcheck:
       test: mc-health
       start_period: 5m
