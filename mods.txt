@@ -1,0 +1,2 @@
+https://cdn.modrinth.com/data/aZj58GfX/versions/hKFWKzLt/easyauth-mc1.20-3.0.19.jar
+https://cdn.modrinth.com/data/6VdDUivB/versions/hYk0deEW/essential_commands-0.35.0-mc1.20.1.jar
