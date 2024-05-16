@@ -8,8 +8,6 @@ services:
     environment:
       EULA: "TRUE"
       ONLINE_MODE: "FALSE"
-      OPS: |
-        xDESOLx
       TYPE: "MODRINTH"
       MODS_FILE: "/extras/mods.txt"
       MODRINTH_MODPACK: "landscapes-reimagined-genesis"
